@@ -528,7 +528,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="xBKVrp0c6ztaxP_AWL9E" name="DISEÑO VENTANAS">
-        <mxGraphModel dx="1910" dy="1570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="899" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="TXRnvd0DpDTw1c-bufLK-0"/>
                 <mxCell id="TXRnvd0DpDTw1c-bufLK-1" parent="TXRnvd0DpDTw1c-bufLK-0"/>
@@ -710,10 +710,10 @@
                     <mxGeometry height="30" width="210" x="220" y="990" as="geometry"/>
                 </mxCell>
                 <mxCell id="At_U55gUiv-1vatZB7lF-119" parent="TXRnvd0DpDTw1c-bufLK-1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-                    <mxGeometry height="80" width="80" x="120" y="1110" as="geometry"/>
+                    <mxGeometry height="80" width="80" x="65" y="1110" as="geometry"/>
                 </mxCell>
                 <mxCell id="At_U55gUiv-1vatZB7lF-120" parent="TXRnvd0DpDTw1c-bufLK-1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-                    <mxGeometry height="80" width="80" x="270" y="1110" as="geometry"/>
+                    <mxGeometry height="80" width="80" x="200" y="1110" as="geometry"/>
                 </mxCell>
                 <mxCell id="At_U55gUiv-1vatZB7lF-121" parent="TXRnvd0DpDTw1c-bufLK-1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
                     <mxGeometry height="40" width="220" x="160" y="650" as="geometry"/>
@@ -878,13 +878,13 @@
                     <mxGeometry height="60" width="25" x="747.5" y="290" as="geometry"/>
                 </mxCell>
                 <mxCell id="At_U55gUiv-1vatZB7lF-203" parent="TXRnvd0DpDTw1c-bufLK-1" style="shape=mxgraph.signs.people.man_1;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" value="" vertex="1">
-                    <mxGeometry height="70" width="40" x="272.5" y="1115" as="geometry"/>
+                    <mxGeometry height="70" width="40" x="202.5" y="1115" as="geometry"/>
                 </mxCell>
                 <mxCell id="At_U55gUiv-1vatZB7lF-206" parent="TXRnvd0DpDTw1c-bufLK-1" style="shape=mxgraph.signs.people.man_1;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" value="" vertex="1">
-                    <mxGeometry height="70" width="40" x="307.5" y="1115" as="geometry"/>
+                    <mxGeometry height="70" width="40" x="237.5" y="1115" as="geometry"/>
                 </mxCell>
                 <mxCell id="At_U55gUiv-1vatZB7lF-207" parent="TXRnvd0DpDTw1c-bufLK-1" style="shape=mxgraph.signs.tech.telephone_4;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" value="" vertex="1">
-                    <mxGeometry height="70" width="54.49" x="135" y="1115" as="geometry"/>
+                    <mxGeometry height="70" width="54.49" x="80" y="1115" as="geometry"/>
                 </mxCell>
                 <mxCell id="At_U55gUiv-1vatZB7lF-208" parent="TXRnvd0DpDTw1c-bufLK-1" style="shape=mxgraph.signs.healthcare.hospital_1;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" value="" vertex="1">
                     <mxGeometry height="30" width="30" x="845.0000000000002" y="565" as="geometry"/>
@@ -933,6 +933,12 @@
                 </mxCell>
                 <mxCell id="4G5soNS7NBP2fKvroL64-8" parent="TXRnvd0DpDTw1c-bufLK-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;TODOS&lt;/font&gt;&lt;/b&gt;" vertex="1">
                     <mxGeometry height="20" width="120" x="540" y="156" as="geometry"/>
+                </mxCell>
+                <mxCell id="61wpuYUwNGttc9gfgGUR-0" parent="TXRnvd0DpDTw1c-bufLK-1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+                    <mxGeometry height="80" width="80" x="340" y="1110" as="geometry"/>
+                </mxCell>
+                <mxCell id="61wpuYUwNGttc9gfgGUR-3" parent="TXRnvd0DpDTw1c-bufLK-1" style="shape=mxgraph.signs.nature.snowflake;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" value="" vertex="1">
+                    <mxGeometry height="70" width="67" x="346.5" y="1115" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
