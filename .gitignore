@@ -1,4 +1,7 @@
-# Archivos temporales de documentos
-
+# [ARCHIVOS TEMPORALES DE DOCUMENTOS]
+#Libre Office
 *.odt#
+*.ods#
+
+#Microsoft Office
 *.docx#
