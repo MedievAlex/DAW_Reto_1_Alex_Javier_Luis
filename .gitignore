@@ -1,3 +1,4 @@
 # Archivos temporales de documentos
 
-.odt#
+*.odt#
+*.docx#
